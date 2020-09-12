@@ -1,4 +1,5 @@
 # LRUCACHE
+## Hecho por Cesar Madera
 
 - Se utilizaron 2 estructuras complementarias para la realizacion de este trabajo: un mapa (de la libreria estandar de c++) y una doble linked list representada por la estructura Node, la cual fue implementada manualmente y que representa una lista doblemente enlazada.
 - En la implementacion, se utilizaron templates para la llave y el valor de la data siendo guardada en cada uno de los nodos y el mapa respectivamente, para que pueda ser utilizado de manera mas general.
